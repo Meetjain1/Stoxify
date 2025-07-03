@@ -1,4 +1,4 @@
-# StockSphere
+# Stoxify
 
 A comprehensive React Native stock tracking and portfolio management application built with TypeScript, Redux Toolkit, and Expo. This app provides real-time stock data, interactive charts, portfolio management, and market news integration.
 
